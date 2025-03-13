@@ -14,20 +14,12 @@
 To run this application, you'll need to:
 
 1. Install dependencies:
-   ```shellscript
-   npm install
-   ```
-   
-   If you encounter dependency conflicts, use either:
+  
    ```shellscript
    npm install --legacy-peer-deps
    ```
-   or
-   ```shellscript
-   npm install date-fns@2.30.0
-   ```
 
-2. Start the Go backend server:
+2. Start the Go API Server server:
    ```shellscript
    cd server
    go run main.go
