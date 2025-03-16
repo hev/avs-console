@@ -3,6 +3,9 @@
 > [!CAUTION]
 > This is an experimental UI Console and still under active development.
 
+<img width="1673" alt="Status_and_v0_App" src="https://github.com/user-attachments/assets/656ab58b-4537-4914-862e-219e0dfd9a76" />
+
+
 ## Prerequisites
 
 - Node.js (v18 or later)
